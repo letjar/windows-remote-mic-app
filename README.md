@@ -41,7 +41,7 @@
 ## 源码与反馈
 
 - 源码：[`adapter/bageshuo` 分支](https://github.com/letjar/windows-remote-mic-app/tree/adapter/bageshuo)（GPL-3.0-only，分发二进制须同时提供此源码）
-- 适配改动 = 该分支相对 `main` 的 diff（两家 provider 各一个提交，便于逐项审阅）
+- 适配改动 = 该分支上的两个提交（两家 provider 各一个），相对上游 `v1.0.97` 展开，便于逐项审阅
 - **上游程序本身的 bug 请反馈给上游仓库**；本适配引入的问题欢迎在本仓库提 Issue。
 
 ---
